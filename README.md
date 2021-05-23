@@ -7,12 +7,12 @@ Essentially, then, a library is a collection of modules. A library is a collecti
 Here, In the small project I've tried exploring the functionalities assositated with some popular python libraries.
 LIBRARIES:
 1. Phonenumbers: This is a Python port of Google's libphonenumber library It supports Python 2.5-2.7 and Python 3.x (in the same codebase, with no 2to3 conversion needed). 
-                 Installation
+                   Installation
 Install the package phonenumbers using the below command in your command prompt.
 
 pip install phonenumbers
 
-2.Pywhatkit: Python offers numerous inbuilt libraries to ease our work. Among them pywhatkit is a Python library for sending WhatsApp messages at a certain time, it has several other features too.
+2.Pywhatkit: Python offers numerous inbuilt libraries to ease our work. Among them pywhatkit is a Python library for sending WhatsApp messages at a certain time, it has          several other features too.
 
 Following are some features of pywhatkit module:
 
